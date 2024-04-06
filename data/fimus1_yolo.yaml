@@ -1,0 +1,7 @@
+path: /home/hallvaeb/data-masteroppgave/complete-annotations/fimus1_yolo
+train: train.txt
+val: val.txt
+test: test.txt
+
+names:
+  0: person
