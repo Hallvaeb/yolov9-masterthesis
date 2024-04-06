@@ -1,4 +1,4 @@
-path: /home/hallvaeb/data-masteroppgave/complete-annotations/fimus1_yolo
+path: {HOME}/datasets/fimus1_yolo
 train: train.txt
 val: val.txt
 test: test.txt
