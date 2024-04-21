@@ -1,4 +1,4 @@
-path: ../datasets/fimus1_640_480
+path: ../datasets/2nd-iteration-images-with-labels
 train: train.txt
 val: val.txt
 test: test.txt

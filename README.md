@@ -1,3 +1,6 @@
+This yolov9 is for when the google colab server must download yolov9 to train new weights file based on the labeled images
+
+
 # YOLOv9
 
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)

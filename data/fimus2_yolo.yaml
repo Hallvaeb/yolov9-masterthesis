@@ -1,9 +1,0 @@
-path: ../datasets/fimus2_yolo
-train: train.txt
-val: val.txt
-test: test.txt
-
-names:
-  0: person
-
-# FIMUSv1_2 has images scaled to 640x640.
