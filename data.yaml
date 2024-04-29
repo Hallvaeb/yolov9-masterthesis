@@ -1,0 +1,6 @@
+train: /content/dataset/FIMUS-train/train.txt
+val: /content/dataset/FIMUS-train/val.txt
+
+nc: 1
+names:
+  0: person
