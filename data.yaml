@@ -1,5 +1,5 @@
-train: /content/dataset/FIMUS-train/train.txt
-val: /content/dataset/FIMUS-train/val.txt
+train: /content/dataset/FIMUS-train-1st-iteration/train.txt
+val: /content/dataset/FIMUS-train-1st-iteration/val.txt
 
 nc: 1
 names:
