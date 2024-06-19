@@ -1,6 +1,6 @@
-This YOLOv9 repository was cloned to Google Colab to fine-tune models in the master thesis project. (See the other repository "masterthesis").
+## This YOLOv9 repository was cloned to Google Colab to fine-tune models in the master thesis project. (See the other repository "masterthesis").
 
-## Acknowledgements
+### Acknowledgements
 
 <details><summary> <b>Expand</b> </summary>
 
