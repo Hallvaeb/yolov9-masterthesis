@@ -14,9 +14,9 @@
 # LABEL_OUTPUT_PATH          = "C:\\Users\\Hallvard\\tiling-experiment\\yolov3\\detections\\Football\\labels_detected"
 
 
-SOURCE_IMAGE_PATH            = "/home/hallvaeb/data-masteroppgave/images-unlabeled/test"
+SOURCE_IMAGE_PATH            = "/home/hallvaeb/data-masteroppgave/FIMUS/images"
 # SOURCE_IMAGE_PATH            = "C:\\Users\\Hallvard\\Code\\dataset\\football-players-detection-1\\all\\images\\"
 WEIGHTS_PATH                 = "/home/hallvaeb/Code/tiling-experiment/yolov9/weights/yolov9-e.pt"
 CONF_THRESH                  = 0.5
 
-OUTPUT_FOLDER				 ="/home/hallvaeb/data-masteroppgave/images-labeled-yolov9/test" 
+OUTPUT_FOLDER				 ="/home/hallvaeb/data-masteroppgave/FIMUS/yolov9-inferences" 

@@ -1,0 +1,6 @@
+train: /content/dataset/PRW/train.txt
+val: /content/dataset/PRW/val.txt
+
+nc: 1
+names:
+  0: person

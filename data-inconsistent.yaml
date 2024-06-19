@@ -1,0 +1,6 @@
+train: /content/dataset/Inconsistent/train.txt
+val: /content/dataset/Inconsistent/val.txt
+
+nc: 1
+names:
+  0: person

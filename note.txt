@@ -1,0 +1,1 @@
+python train_dual.py --batch -1 --epochs 5 --img 640 --device cpu --min-items 0 --close-mosaic 15 --data ./data.yaml --weights ./weights/yolov9-e.pt --cfg yolov9-e.yaml --freeze 10 --single-cls
